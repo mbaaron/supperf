@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Supplier Performance Group"
+title: "Welcome to the Supplier Performance Group"
 date: 2026-04-18
 draft: false
 ---
