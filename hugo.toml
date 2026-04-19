@@ -2,3 +2,19 @@ baseURL = 'https://mbaaron.github.io/supperf/'
 languageCode = 'en-us'
 title = 'Supplier Performance Group'
 theme = 'PaperMod'
+
+[params]
+  description = "Straight talk for suppliers navigating buying group relationships."
+  author = "Marvin Aaron"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
