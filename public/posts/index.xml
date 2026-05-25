@@ -2,34 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Supplier Performance Group</title>
-    <link>http://localhost:1313/supperf/posts/</link>
+    <link>https://mbaaron.github.io/supperf/posts/</link>
     <description>Recent content in Posts on Supplier Performance Group</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/supperf/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mbaaron.github.io/supperf/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is the Supplier Performance Group about?</title>
-      <link>http://localhost:1313/supperf/posts/what-its-about/</link>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supperf/posts/what-its-about/</guid>
+      <link>https://mbaaron.github.io/supperf/posts/what-its-about/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://mbaaron.github.io/supperf/posts/what-its-about/</guid>
       <description>&lt;h2 id=&#34;the-supplier-performance-group&#34;&gt;The Supplier Performance Group&lt;/h2&gt;
-&lt;p&gt;A note on terminology&lt;/p&gt;
-&lt;h2 id=&#34;putting-suppliers-on-equal-footing&#34;&gt;Putting Suppliers on Equal Footing&lt;/h2&gt;
-&lt;p&gt;I love buying groups, but let&amp;rsquo;s face it &amp;ndash; they are&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;first&lt;/strong&gt;, for the distributor members,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;second&lt;/strong&gt;, for the group itself, and&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;third&lt;/strong&gt;, for the suppliers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I want to be clear that this is not a knock on the groups, or on the above-mentioned &amp;ldquo;order of importance.&amp;rdquo;  The groups I know of have never been shy about communicating this.  Yes, maybe it&amp;rsquo;s not stressed, but it&amp;rsquo;s certainly understood.  And it&amp;rsquo;s evident in the structure and programs of the group.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Welcome to the Supplier Performance Group</title>
-      <link>http://localhost:1313/supperf/posts/my-first-post/</link>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supperf/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is the first post on the Supplier Performance Group blog. More to come.&lt;/p&gt;</description>
+&lt;p&gt;The Supplier Performance Group exists to help Suppliers in the Industrial and Construction marketplaces thrive and prosper.
+&lt;!-- raw HTML omitted --&gt;
+We write about all aspects of the supplier experience — working with GPOs and buying groups, managing independent manufacturer&amp;rsquo;s reps, trade shows, sales force structure, channel management, and upstream supplier relationships.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
