@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mbaaron.github.io/supperf/posts/</loc>
+    <loc>http://localhost:1313/supperf/posts/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mbaaron.github.io/supperf/</loc>
+    <loc>http://localhost:1313/supperf/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mbaaron.github.io/supperf/posts/what-its-about/</loc>
+    <loc>http://localhost:1313/supperf/posts/what-its-about/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mbaaron.github.io/supperf/categories/</loc>
+    <loc>http://localhost:1313/supperf/categories/</loc>
   </url><url>
-    <loc>https://mbaaron.github.io/supperf/tags/</loc>
+    <loc>http://localhost:1313/supperf/tags/</loc>
   </url>
 </urlset>

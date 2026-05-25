@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Supplier Performance Group</title>
-    <link>https://mbaaron.github.io/supperf/posts/</link>
+    <link>http://localhost:1313/supperf/posts/</link>
     <description>Recent content in Posts on Supplier Performance Group</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mbaaron.github.io/supperf/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/supperf/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is the Supplier Performance Group about?</title>
-      <link>https://mbaaron.github.io/supperf/posts/what-its-about/</link>
+      <link>http://localhost:1313/supperf/posts/what-its-about/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://mbaaron.github.io/supperf/posts/what-its-about/</guid>
+      <guid>http://localhost:1313/supperf/posts/what-its-about/</guid>
       <description>&lt;h2 id=&#34;the-supplier-performance-group&#34;&gt;The Supplier Performance Group&lt;/h2&gt;
 &lt;p&gt;The Supplier Performance Group exists to help Suppliers in the Industrial and Construction marketplaces thrive and prosper.
 &lt;!-- raw HTML omitted --&gt;
