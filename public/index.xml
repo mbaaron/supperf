@@ -2,17 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Supplier Performance Group</title>
-    <link>http://localhost:1313/supperf/</link>
+    <link>https://mbaaron.github.io/supperf/</link>
     <description>Recent content on Supplier Performance Group</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/supperf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mbaaron.github.io/supperf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yet Another Page</title>
+      <link>https://mbaaron.github.io/supperf/yet-another-page/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://mbaaron.github.io/supperf/yet-another-page/</guid>
+      <description>&lt;p&gt;I think i found another way to add a page to my Hugo site today.  If so, this is a thrilling discovery.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What is the Supplier Performance Group about?</title>
-      <link>http://localhost:1313/supperf/posts/what-its-about/</link>
+      <link>https://mbaaron.github.io/supperf/posts/what-its-about/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supperf/posts/what-its-about/</guid>
+      <guid>https://mbaaron.github.io/supperf/posts/what-its-about/</guid>
+      <description>&lt;h2 id=&#34;the-supplier-performance-group&#34;&gt;The Supplier Performance Group&lt;/h2&gt;
+&lt;p&gt;The Supplier Performance Group exists to help Suppliers in the Industrial and Construction marketplaces thrive and prosper.
+&lt;!-- raw HTML omitted --&gt;
+We write about all aspects of the supplier experience — working with GPOs and buying groups, managing independent manufacturer&amp;rsquo;s reps, trade shows, sales force structure, channel management, and upstream supplier relationships.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://mbaaron.github.io/supperf/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mbaaron.github.io/supperf/about/</guid>
       <description>&lt;h2 id=&#34;the-supplier-performance-group&#34;&gt;The Supplier Performance Group&lt;/h2&gt;
 &lt;p&gt;The Supplier Performance Group exists to help Suppliers in the Industrial and Construction marketplaces thrive and prosper.
 &lt;!-- raw HTML omitted --&gt;
